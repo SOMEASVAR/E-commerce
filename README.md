@@ -1,4 +1,4 @@
-# Exercise-25
+![image](https://github.com/SaiDarshan2003/E-commerce/assets/94692595/d4d7f2a2-70cf-4035-84fc-c39e0a32498f)# Exercise-25
 
 ## Aim:
 
@@ -20,7 +20,7 @@ To create an E-commerce application using SpringBoot and SQL.
 
 ## Program:
 
-Employee.java
+Ecommerce.java
 ```
 package com.Ecom.ecom.eco;
 
