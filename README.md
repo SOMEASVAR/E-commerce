@@ -1,4 +1,4 @@
-![image](https://github.com/SaiDarshan2003/E-commerce/assets/94692595/d4d7f2a2-70cf-4035-84fc-c39e0a32498f)# Exercise-25
+# Exercise-25
 
 ## Aim:
 
