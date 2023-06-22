@@ -1,10 +1,10 @@
 # Exercise-25
 
-## Aim:
+# Aim:
 
 To create an E-commerce application using SpringBoot and SQL.
 
-## Algorithm:
+# Algorithm:
 
 1.Open Spring Initialzr.
 
@@ -18,9 +18,9 @@ To create an E-commerce application using SpringBoot and SQL.
 
 6.Connect the database with the SpringBoot.
 
-## Program:
+# Program:
 
-Ecommerce.java
+## Ecommerce.java:
 ```
 package com.Ecom.ecom.eco;
 
@@ -115,7 +115,7 @@ public class Ecommerce {
 
 ```
 
-applications.properties
+## applications.properties:
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/hosman_db
 spring.datasource.username=postgres
@@ -127,7 +127,7 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ```
 
-App.js
+## App.js:
 ```
 import React from "react"
 import './App.css';
@@ -161,13 +161,14 @@ function App() {
 export default App;
 ```
 
-## Output:
-
-
-![Screenshot (3)](https://github.com/SaiDarshan2003/E-commerce/assets/94692595/cdc7fbb8-7090-4edb-90ff-c0c0acc99abb)
+# Output:
 
 
 
-## Result:
+![image](https://github.com/SOMEASVAR/E-commerce/assets/93434149/1afe2853-28de-4c90-bf39-9c0cf99f1ba6)
+
+
+
+# Result:
 
 Thus we have successfully created an E-commerce application using SpringBoot and SQL.
